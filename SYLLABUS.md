@@ -1,7 +1,7 @@
-- [ ] [Complete Git & GitHub Course](https://youtu.be/apGV9Kg7ics)
+- [x] [Complete Git & GitHub Course](https://youtu.be/apGV9Kg7ics)
 - [ ] [Introduction to Programming](https://youtu.be/wn49bJOYAZM)
-    - [ ] [Types of languages](https://youtu.be/wn49bJOYAZM?t=171)
-    - [ ] [Memory management](https://youtu.be/wn49bJOYAZM?t=1488)
+    - [x] [Types of languages](https://youtu.be/wn49bJOYAZM?t=171)
+    - [x] [Memory management](https://youtu.be/wn49bJOYAZM?t=1488)
 - [ ] [Flow of the program](https://youtu.be/lhELGQAV4gg)
     - [ ] [Flowcharts](https://youtu.be/lhELGQAV4gg)
     - [ ] [Pseudocode](https://youtu.be/lhELGQAV4gg?t=715)
@@ -27,12 +27,12 @@
     - [ ] [Memory management](https://youtu.be/n60Dn0UsbEk?t=632)
     - [ ] [Input and Output](https://youtu.be/n60Dn0UsbEk?t=1675)
     - [ ] [ArrayList Introduction](https://youtu.be/n60Dn0UsbEk?t=4868)
-    - Searching
+    - [ ] Searching
         - [ ] [Linear Search](https://youtu.be/_HRA37X8N_Q)
         - [ ] [Binary Search](https://youtu.be/f6UU7V3szVw)
         - [ ] [Modified Binary Search](https://youtu.be/f6UU7V3szVw?t=2508)
         - [ ] [Binary Search on 2D Arrays](https://www.youtube.com/watch?v=enI_KyGLYPo)
-    - Sorting
+    - [ ] Sorting
         - [ ] [Insertion Sort](https://youtu.be/By_5-RRqVeE)
         - [ ] [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
         - [ ] [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
@@ -116,7 +116,7 @@
     - [ ] [Vector Class](https://youtu.be/9ogGan-R1pc?t=668)
     - [ ] [Lambda Expression](https://youtu.be/OY2lPr8h93U?t=2894) 
     - [ ] [Enums](https://youtu.be/9ogGan-R1pc?t=909)
-- Linked List
+- [ ] Linked List
     - [ ] [Introduction](https://youtu.be/58YbpRDc4yw)
     - [ ] [Singly + Doubly + Circular LinkedList](https://youtu.be/58YbpRDc4yw)
     - [ ] [Fast and slow pointer](https://youtu.be/70tx7KcMROc)
